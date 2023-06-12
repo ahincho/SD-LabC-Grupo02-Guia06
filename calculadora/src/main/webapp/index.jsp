@@ -28,7 +28,7 @@
                                 </div>
                                 <br>
                                 <div class="form-group">
-                                    <label for="n2" class="text-white">First Number</label>
+                                    <label for="n2" class="text-white">Second Number</label>
                                     <input id="n2" name="n2" type="number" class="form-control" placeholder="Give the second number.">
                                 </div>
                             </div>
